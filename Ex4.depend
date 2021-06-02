@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\lenovo\desktop\ex4\main.cpp
+	<iostream>
+
+1622376270 source:c:\users\lenovo\desktop\ex4\src\aquatiques.cpp
+	"aquatiques.h"
+	<iostream>
+
+1622376198 c:\users\lenovo\desktop\ex4\include\aquatiques.h
+	<Pokemon.h>
+
+1622376196 c:\users\lenovo\desktop\ex4\include\pokemon.h
+	<string>
+	<iostream>
+
+1622376286 source:c:\users\lenovo\desktop\ex4\src\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+
+1622376301 source:c:\users\lenovo\desktop\ex4\src\dormeurs.cpp
+	"dormeurs.h"
+	<iostream>
+
+1622376198 c:\users\lenovo\desktop\ex4\include\dormeurs.h
+	<Pokemon.h>
+
+1622376312 source:c:\users\lenovo\desktop\ex4\src\terractifs.cpp
+	"terractifs.h"
+	<iostream>
+
+1622376198 c:\users\lenovo\desktop\ex4\include\terractifs.h
+	<Pokemon.h>
+
+1622668778 source:c:\users\asus\desktop\ex4-main\main.cpp
+	<iostream>
+	"Pokemon.h"
+	"Terractifs.h"
+	"Dormeurs.h"
+	"PokemonWorld.h"
+
+1622668465 source:c:\users\asus\desktop\ex4-main\src\aquatiques.cpp
+	"aquatiques.h"
+	<iostream>
+
+1622668513 c:\users\asus\desktop\ex4-main\include\aquatiques.h
+	"Pokemon.h"
+
+1622668513 c:\users\asus\desktop\ex4-main\include\pokemon.h
+	<iostream>
+
+1622668488 source:c:\users\asus\desktop\ex4-main\src\dormeurs.cpp
+	"dormeurs.h"
+	<iostream>
+
+1622668557 c:\users\asus\desktop\ex4-main\include\dormeurs.h
+	"Pokemon.h"
+
+1622668468 source:c:\users\asus\desktop\ex4-main\src\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+
+1622668460 source:c:\users\asus\desktop\ex4-main\src\pokemonworld.cpp
+	"PokemonWorld.h"
+
+1622668513 c:\users\asus\desktop\ex4-main\include\pokemonworld.h
+	<vector>
+	<iostream>
+	"Pokemon.h"
+
+1622668463 source:c:\users\asus\desktop\ex4-main\src\terractifs.cpp
+	"terractifs.h"
+	<iostream>
+
+1622668513 c:\users\asus\desktop\ex4-main\include\terractifs.h
+	<Pokemon.h>
+
